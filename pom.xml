@@ -11,7 +11,7 @@
   <artifactId>gson-api</artifactId>
   <version>${revision}-${changelist}</version>
   <packaging>hpi</packaging>
-  <name>GSON API Plugin</name>
+  <name>Gson API Plugin</name>
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
   <licenses>
     <license>
